@@ -1,1 +1,1 @@
-# go-viral
+# Go Viral
